@@ -15,6 +15,6 @@ This SQL client used is PostgreSQL.🐘
 ![Untitled Workspace](https://user-images.githubusercontent.com/66962188/127756584-6e847ab6-1360-485a-9ca6-abe7ed8f1f88.jpg)
 
 ### Visualization with Tableau
-The final visualization created with Tableau is below:
+The final visualization created with Tableau is below. Link to the [dashboard](https://public.tableau.com/views/Covid-19Analysis_16278276721830/CovidDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ![Covid Dashboard](https://user-images.githubusercontent.com/66962188/127774443-04821106-74cd-47b0-b8a8-edd205f246a1.png)
